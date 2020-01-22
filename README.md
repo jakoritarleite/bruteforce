@@ -4,7 +4,7 @@
 ![licence](https://img.shields.io/badge/licence-GNU-blue.svg?style=flat)
 ![build](https://img.shields.io/badge/build-passing-orange.svg?style=flat)
 
-It is a simple gmail keylogger for all platforms that can run Python.
+It is a simple gmail bruteforce for all platforms that can run Python.
 
 ## Getting Started
 
